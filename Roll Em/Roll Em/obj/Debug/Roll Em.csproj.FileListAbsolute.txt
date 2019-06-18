@@ -1,0 +1,9 @@
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\bin\Debug\Roll Em.exe.config
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\bin\Debug\Roll Em.exe
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\bin\Debug\Roll Em.pdb
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll Em.csprojResolveAssemblyReference.cache
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll_Em.Form1.resources
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll_Em.Properties.Resources.resources
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll Em.csproj.GenerateResource.Cache
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll Em.exe
+\\wilmington-fs\users\amclaug7\visual studio 2015\Projects\Roll Em\Roll Em\obj\Debug\Roll Em.pdb
